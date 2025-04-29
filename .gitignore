@@ -1,0 +1,61 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+.venv.bak/
+
+# PyCharm / JetBrains
+.idea/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Local .env files
+.env
+.env.*
+
+# uv specific
+uv.lock
+uv
