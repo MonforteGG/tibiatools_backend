@@ -42,7 +42,7 @@ def format_loot_data(detected_items: dict) -> dict:
     return formatted_data
 
 
-# Load reference images
+
 def load_reference_images():
     categories = {
         "blue": [],
